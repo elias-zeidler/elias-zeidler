@@ -11,7 +11,7 @@ import icon from 'astro-icon'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://eliaszeidler.github.io',
+	site: 'https://elias-zeidler.github.io',
 	integrations: [
 		expressiveCode(expressiveCodeOptions),
 		tailwind({
