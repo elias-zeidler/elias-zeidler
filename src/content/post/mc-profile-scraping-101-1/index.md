@@ -45,4 +45,4 @@ With my current speed, it's possible for me to update the data of roughly 59,500
 
 I'm planning to write a post about the architecture of this system and how I've set it up. I'm also planning to write a post about the math I've done to calculate the amount of Minecraft accounts.
 
-This blog post rather serves as a first entry to this series of posts hence my it's not as detailed as the upcoming posts will be. Stay tuned!
+This blog post rather serves as a first entry to this series of posts hence why it's not as detailed as the upcoming posts might be. Stay tuned!
